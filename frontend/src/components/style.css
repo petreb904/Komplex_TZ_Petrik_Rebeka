@@ -1,0 +1,97 @@
+body{
+    width: 100%;
+}
+
+.fokep{
+    width: 100%;
+}
+
+
+.container-kozponti-tajekoztato{
+    background-color: rgba(22, 98, 22, 0.259);
+    width: 450px;
+    height: 700px;
+}
+
+.container-tajekoztatas{
+    
+    width: 450px;
+    height: 700px;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: auto;
+    border: 3px solid #ffffff;
+    padding: 30px;
+    width: 90%;
+ 
+  }
+  
+  .container-felvettek {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: auto;
+    border: 3px solid #ffffff;
+    padding: 30px;
+    width: 80%;
+   
+ 
+  }
+
+
+  .container > div container-kozponti-tajekoztato  {
+    background-color: #f8f8f8;
+    padding: 40px;
+    font-size: 20px;
+    width: 450px;
+   
+  }
+ 
+
+  .oldalhasznalata  {
+    background-color: rgba(22, 98, 22, 0.259);
+    padding: 40px;
+    font-size: 20px;
+    width: 450px;
+   
+  }
+
+  .dobozok{
+    background-color: #f1f1f1;
+  }
+#lenyilomenu{
+    width: 300px;
+    height: 25px;
+}
+
+.email{
+    border: rgb(14, 13, 13);
+    padding: 20px;
+}
+  
+.container-kozponti-tajekoztato2{
+    background-color: rgba(22, 98, 22, 0.259);
+    width: 500px;
+    height: 700px;
+}
+.container-tajekoztatas2{
+    
+    width: 500px;
+    height: 700px;
+}
+
+.container-felvettek2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin: auto;
+    border: 3px solid #ffffff;
+    padding: 30px;
+    width: 80%;
+    
+   
+ 
+  }
